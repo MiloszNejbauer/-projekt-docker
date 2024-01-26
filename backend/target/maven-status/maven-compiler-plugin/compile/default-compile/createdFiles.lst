@@ -1,0 +1,6 @@
+bol\projekt\bol\model\User.class
+bol\projekt\bol\repository\UserRepostiory.class
+bol\projekt\bol\controller\UserController.class
+bol\projekt\bol\config\CorsConfig.class
+bol\projekt\bol\BolApplication.class
+bol\projekt\bol\service\UserService.class

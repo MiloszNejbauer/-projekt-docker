@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://bolo:bolo@bolodb.bjvmlsk.mongodb.net/bolodb
